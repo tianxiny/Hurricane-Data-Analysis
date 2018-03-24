@@ -1,9 +1,3 @@
-# IS590PR - Assignment 2
-# Xinyu Tian (xt5), Yushuo Fan (yushuof2), Xiang Chen (xiangc4)
-# Job Responsibilities: Yushuo (yushuof2) completed Phase A.1,
-#                       Xiang (xiangc4) finished Phase A.2,
-#                       Xinyu (xt5) did Phase B and wrapped up the project by adding comments.
-#                       Everyone participated in the code testing.
 
 from pygeodesy import ellipsoidalVincenty as ev
 import datetime as dt
